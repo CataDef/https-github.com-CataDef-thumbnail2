@@ -1,0 +1,7 @@
+{
+  "name": "2026 Viral Thumbnail Engine",
+  "description": "An advanced click psychology strategist that generates futuristic, minimalist, and ultra-realistic YouTube thumbnails based on 2026 design principles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
